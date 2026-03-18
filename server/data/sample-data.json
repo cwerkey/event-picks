@@ -1,0 +1,21 @@
+
+{
+  "categories": [
+    {
+      "name": "Best Movie",
+      "options": ["Movie A", "Movie B", "Movie C", "Movie D"]
+    },
+    {
+      "name": "Best Actor",
+      "options": ["Actor A", "Actor B", "Actor C", "Actor D"]
+    },
+    {
+      "name": "Best Actress",
+      "options": ["Actress A", "Actress B", "Actress C", "Actress D"]
+    },
+    {
+      "name": "Best Director",
+      "options": ["Director A", "Director B", "Director C", "Director D"]
+    }
+  ]
+}
